@@ -1,6 +1,6 @@
 ## All sources generate on the same prompt: 
 ### A dream where time melts like Salvador Dalí's paintings, viewed through a fisheye lens 
-#### just of reference this is how salvador dali's paintings are like:
+#### just for reference this is how salvador dali's paintings are like:
 ![pic](/images/salvador_dali_painting.webp)
 
 ### **1. Freepik AI Image Generator**
