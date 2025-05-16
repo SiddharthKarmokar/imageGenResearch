@@ -28,6 +28,8 @@
 * Completely free, uses dall-e mini variant
 * No public API, but efficient python/node wrapper are available
 * **Website**: [https://www.craiyon.com](https://www.craiyon.com/)
+
+
 ![pic1](/images/craiyon_1.webp)
 ![pic2](/images/craiyon_2.webp)
 
